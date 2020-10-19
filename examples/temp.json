@@ -1,0 +1,19 @@
+{
+    "name": "MyGeneratedClassModel",
+    "package": "AppNamespace",
+    "extends": "AbstractClassModel",
+    "implements": "ByTheWay, UseImplements, ThroughCommaSign",
+    "fields": {
+        "private": {
+            "somePrivateField": "string"
+        },
+        "protected": {
+            "someProtectedField": "WithCustomType"
+        },
+        "public": {
+            "publicField": "WithGettersAndSetters",
+            "otherField": "string",
+            "isAwesomePyScript": "bool"
+        }
+    }
+}
