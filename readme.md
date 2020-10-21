@@ -38,7 +38,6 @@ makeClass </your/json/file/path> <your-json-file-name.json>
 - implements - implementation through comma;
 - fields - fields of class:
 
-[Demo video](https://youtu.be/O12VgHHZmEo)
 
 ```
 ...
@@ -53,3 +52,5 @@ makeClass </your/json/file/path> <your-json-file-name.json>
 }
 ...
 ```
+
+[Demo video](https://youtu.be/O12VgHHZmEo)
