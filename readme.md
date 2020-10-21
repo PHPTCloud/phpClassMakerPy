@@ -38,6 +38,8 @@ makeClass </your/json/file/path> <your-json-file-name.json>
 - implements - implementation through comma;
 - fields - fields of class:
 
+[Demo video](https://youtu.be/O12VgHHZmEo)
+
 ```
 ...
 "implements": "UseImplements, ThroughCommaSign "
