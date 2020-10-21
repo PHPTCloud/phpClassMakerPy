@@ -6,7 +6,7 @@
 2. Put file int comfortable directory on your machine (e.g. /etc/customScripts/)
 3. Create alias to make simple call of script (optional)
 ```
-alias makeClass=python3 /your/script/path/phpClassMaker.py
+alias makeClass='python3 /your/script/path/phpClassMaker.py'
 ```
 4. Create json file which will be association of php class (e. class.json)
 ```
